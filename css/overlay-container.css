@@ -1,0 +1,17 @@
+.overlay-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 50%;
+    color: var(--text-color-light);
+    text-align: center;
+    transform: translateX(100%);
+    z-index: 10;
+    transition: 1s;
+
+}
+.login-container.move .overlay-container {
+    transform: translateX(0%);
+
+}
