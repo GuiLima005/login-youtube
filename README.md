@@ -9,14 +9,13 @@
 ---
 ## Sobre 
 
-- Site de login. O objetivo deste projeto é colocar em pratica os conhecimentos adquiridos no [vídeo](https://youtu.be/-lfa4noP46U) do [Professor Leonid](https://github.com/fernandoleonid) na criação de web sites.
+- Site de login. O objetivo deste projeto é colocar em pratica os conhecimentos adquiridos no curso do [Senai Jandira](https://jandira.sp.senai.br/) e no [vídeo](https://youtu.be/-lfa4noP46U) do [Professor Leonid](https://github.com/fernandoleonid) na criação de web sites.
 
 ## Tecnologias utilizadas 
 - HTML
 - CSS
 - Java Script
 - Markdown
-- Framework
 - Responsividade
 
 ## Ferramentas
